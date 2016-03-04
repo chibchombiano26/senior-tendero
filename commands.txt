@@ -1,0 +1,1 @@
+ionic config set gcm_key AIzaSyDvQndnCk0LXF51h4p1y0mUrxltAqiPgCE
